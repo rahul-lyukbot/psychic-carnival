@@ -1,1 +1,1 @@
-# psychic-carnival
+# Psychic-carnival
